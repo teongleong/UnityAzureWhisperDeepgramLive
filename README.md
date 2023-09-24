@@ -1,7 +1,7 @@
 # UnityAzureWhisperDeepgramLive
 A demo of live transcription on all 3 ASR/STT concurrently
 
-dependency
+dependency  
 https://github.com/endel/NativeWebSocket.git#upm
 https://github.com/proyecto26/RestClient.git#upm
 
